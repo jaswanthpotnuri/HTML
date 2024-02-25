@@ -1,0 +1,10 @@
+h1{
+    color: cyan;
+}
+
+p{
+    font-size: bold;
+    font-style: italic;
+    color: aliceblue;
+    background-color: purple;
+}
